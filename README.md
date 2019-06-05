@@ -4,7 +4,7 @@ Theme with 'retro groove' flavor for [Tmux][github-tmux], based on Pavel Pertsev
 
 > Screenshot made from Mac OSX builtin terminal with xterm-256color and [Hack font][github-hack].
 
-<img src="http://i.imgur.com/OqnVzqf.png" title="Tmux grovbox colorscheme" style="width: 100%; max-width: 600px; text-align: center;" />
+<img src="Screen Shot 2019-06-06 at 03.53.13.png" title="Tmux grovbox colorscheme" style="width: 100%; max-width: 600px; text-align: center;">
 
 
 ## Installation
